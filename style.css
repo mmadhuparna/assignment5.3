@@ -10,7 +10,9 @@ header{
     width: 100%;
     height: 100%;
     align-content: stretch;
-    flex: 1;
+    
+    
+   
     
     }
 /*defining flex-item styles*/
@@ -24,4 +26,6 @@ div{
     padding: 10px;
     text-align: center; 
     box-sizing: border-box;
+    flex: 1;
+   
 }
